@@ -145,3 +145,12 @@
     width: 35px;
     margin-left: 1vw;
 }
+.learnmore
+{
+    text-decoration: none;
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-size: small;
+    font-weight: 400;
+    text-decoration: underline;
+}
