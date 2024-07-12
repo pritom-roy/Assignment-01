@@ -1,0 +1,89 @@
+.contentFont
+{
+    font-family: "Azeret Mono", monospace;
+    font-size: small;
+    font-weight: 16;
+}
+.header
+{
+    text-align: center;
+    background-image: url(assets/Hero-bg.png);
+    height: 45%;
+}
+.hTitle
+{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+.headerContent
+{
+    padding: 50px 20vh 5px;
+    padding-bottom: 30px;
+}
+#headButton
+{
+    padding: 10px;
+    background-color: #0D1321;
+    font-size: medium;
+    color: #ffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 3vh;
+}
+#contentAlignment
+{
+    margin-left: 7vw;
+    margin-right: 7vw;
+}
+#midContent
+{
+    padding: 10px;
+    background-color: #EEEEEE;
+    border-radius: 1%;
+    padding: 3% 10% 3% 10%;
+}
+.innerCard
+{
+    border-radius: 10px;
+    display: flex;
+    background-color: #ffff;
+    justify-content: space-between;
+    padding: 3vh 7vh 1vh;
+    margin-bottom: 2vh;
+}
+.cardContent
+{
+    width: 47%;
+}
+.cardButton
+{
+    padding: 10px 20px;  
+    font: 400;
+    color: #0D1321;
+    background-color: white;
+    text-decoration: none;
+    border: solid 1px black;
+}
+.iCard
+{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 7vh;
+    margin-top: 10vh;
+}
+.media
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-color: #0D1321;
+    border-style: solid;
+    border-width: thin;
+    width: fit-content;
+    padding: 25px;
+    border-radius: 10px;
+}
