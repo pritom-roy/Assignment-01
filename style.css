@@ -40,9 +40,10 @@
 #midContent
 {
     padding: 10px;
-    background-color: #EEEEEE;
+    background-color: #fbfbfb;
     border-radius: 1%;
     padding: 3% 10% 3% 10%;
+    margin-top: 25px;
 }
 .innerCard
 {
@@ -117,7 +118,7 @@
 #inputBox
 {
     height: 15px;
-    width: 70%;
+    width: 60%;
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
