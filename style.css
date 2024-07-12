@@ -87,3 +87,60 @@
     padding: 25px;
     border-radius: 10px;
 }
+#skillContain
+{
+    display: flex;
+    /* padding-left: 15%;
+    padding-right: 15%; */
+    gap: 20px;
+}
+.skillCard
+{
+    text-align: left;
+    padding: 40px;
+    border-radius: 10px;
+}
+.footerSection
+{
+    background-image: url(assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    padding: 10vh;
+    font-size: large;
+    color: #ffff;
+    border-radius: 10px;
+    text-align: center;
+}
+#inputBox
+{
+    height: 15px;
+    width: 70%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+}
+.sub
+{
+    padding: 9px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#last
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.iconConfig
+{
+    height: 35px;
+    width: 35px;
+    margin-left: 1vw;
+}
